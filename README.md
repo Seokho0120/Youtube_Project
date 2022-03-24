@@ -22,3 +22,4 @@ HTML | CSS | Java Script
 <br>✔️ Transform, Transition으로 간단한 애니메이션 구현
 <br>✔️ CSS media queries를 이용한 반응형 구현
 
+![유튜브 프로젝트-min](https://user-images.githubusercontent.com/93597794/159904161-29cab694-4a2b-4b22-acd5-fbf34adc5c3f.gif)
