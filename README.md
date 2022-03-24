@@ -1,27 +1,24 @@
-# Youtube_Project
+# **Youtube Project**
 
-### Wireframe
-레이아웃을 정리하는 과정
+Youtube를 모티브로 한 개인 프로젝트
 
-부모 - 자식 구조의 섹션 정리+네이밍 정리 (BEM)
-<br>네이밍은 최대한 알아보기 쉽게 (✨ 매우 중요 ✨)
+21.02.27 - 22.01.06
 
-### HTML 마크업
-최대한 시맨틱 태그를 사용하여 정리
-<br>시맨틱 태그: 이름 자체만으로 의미를 명확하게 전달할 수 있는 태그, 쉽게말해 딱 봐도 대충 뭔지 감이 오는 태그
+[회고](https://velog.io/@leesegho/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 
 
-- header
-<br>머리말 영역, 문서 또는 섹션의 헤더
-<br>h1, h2 등 올 수 있다.
-- nav
-<br>네비게이션 / 다른 영역, 사이트, 문서 사이를 탐색 할 수있는 링크의 집합
-- main
-<br>문서의 주요 콘텐츠
-- section
-<br>본문의 한 구역
-- article
-<br>본문의 독립된 컨텐츠, 개별 뉴스 혹은 게시물 등
-- aside
-<br>사이드 바
-- footer
-<br>꼬리말 혹은 바닥글 / 회사 소개,약관,저작권,제작 정보 등
+## Tech Stack
+
+HTML | CSS | Java Script
+
+## Overview
+
+친숙한 사이트인 Youtube를 모티브로한 반응형 사이트를 구현하며, 재미를 느끼는 동시에 실력 상승에도 도움이 되었던 개인프로젝트 입니다.
+
+화면의 가장 큰 파트에서 작은 파트까지 나누어 레이아웃 구조를 분석하고 Semantic Tag와 Class 네이밍을 신경쓰며 구현했습니다.
+
+## What did I do
+<br>✔️ HTML, CSS 기초 학습(Semantic Tag, 부모 - 자식 구조 등)
+<br>✔️ Layout & Wireframe 구조 이해
+<br>✔️ Transform, Transition으로 간단한 애니메이션 구현
+<br>✔️ CSS media queries를 이용한 반응형 구현
+
